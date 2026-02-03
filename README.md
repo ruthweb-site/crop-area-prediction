@@ -2,7 +2,8 @@
 
 An intelligent multi-agent system that predicts crop area, yield, and health using live data from weather, soil, and satellite sources.
 
-![CropAgent Banner](https://via.placeholder.com/800x200/22c55e/ffffff?text=CropAgent+-+AI+for+Indian+Farmers)
+<img width="1890" height="872" alt="image" src="https://github.com/user-attachments/assets/fee13914-4b1a-4f6f-9d3f-b565de7d669e" />
+
 
 ## 🚀 Features
 

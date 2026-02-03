@@ -1,0 +1,95 @@
+{
+    "common": {
+        "appName": "CropAgent",
+        "tagline": "AI-Powered Crop Prediction for Indian Farmers"
+    },
+    "navigation": {
+        "dashboard": "Dashboard",
+        "chat": "Chat",
+        "predictions": "Predictions",
+        "alerts": "Alerts",
+        "settings": "Settings"
+    },
+    "dashboard": {
+        "welcome": "Welcome! Ask me about crop yields, weather conditions, or farming advice.",
+        "quickStats": "Quick Stats",
+        "yieldPrediction": "Yield Prediction",
+        "confidence": "Confidence",
+        "temperature": "Temperature",
+        "soilMoisture": "Soil Moisture",
+        "selectState": "Select State",
+        "selectCrop": "Select Crop"
+    },
+    "weather": {
+        "title": "Weather",
+        "temperature": "Temperature",
+        "humidity": "Humidity",
+        "wind": "Wind",
+        "rainfall": "Rainfall (24h)",
+        "forecast": "Forecast",
+        "rainChance": "Rain Chance"
+    },
+    "soil": {
+        "title": "Soil Conditions",
+        "moisture": "Moisture",
+        "ph": "pH Level",
+        "nitrogen": "Nitrogen",
+        "phosphorus": "Phosphorus",
+        "potassium": "Potassium",
+        "healthScore": "Health Score"
+    },
+    "crop": {
+        "title": "Crop Health",
+        "ndvi": "NDVI",
+        "healthScore": "Health Score",
+        "growthStage": "Growth Stage",
+        "stressDetected": "Stress Detected"
+    },
+    "irrigation": {
+        "title": "Smart Irrigation Advisor",
+        "soilMoisture": "Soil Moisture",
+        "action": "Recommended Action",
+        "timing": "Best Timing",
+        "amount": "Water Amount",
+        "irrigate": "Irrigate Now",
+        "skip": "Skip Irrigation",
+        "wait": "Wait",
+        "monitor": "Monitor"
+    },
+    "risk": {
+        "title": "Risk Assessment",
+        "overall": "Overall Risk",
+        "low": "Low",
+        "moderate": "Moderate",
+        "elevated": "Elevated",
+        "high": "High",
+        "critical": "Critical",
+        "factors": "Risk Factors"
+    },
+    "alerts": {
+        "title": "Alerts",
+        "noAlerts": "No active alerts",
+        "drought": "Drought Risk",
+        "flood": "Flood Risk",
+        "disease": "Disease Risk",
+        "pest": "Pest Risk"
+    },
+    "chat": {
+        "placeholder": "Ask a question about your crops...",
+        "send": "Send",
+        "thinking": "Thinking..."
+    },
+    "predictions": {
+        "yield": "Predicted Yield",
+        "unit": "tonnes/hectare",
+        "vsAverage": "vs Average",
+        "production": "Production Forecast",
+        "area": "Area Under Crop"
+    },
+    "recommendations": {
+        "title": "Recommendations",
+        "high": "High Priority",
+        "medium": "Medium Priority",
+        "low": "Low Priority"
+    }
+}

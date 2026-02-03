@@ -1,0 +1,95 @@
+{
+    "common": {
+        "appName": "क्रॉप एजंट",
+        "tagline": "भारतीय शेतकऱ्यांसाठी AI-आधारित पीक अंदाज"
+    },
+    "navigation": {
+        "dashboard": "डॅशबोर्ड",
+        "chat": "चॅट",
+        "predictions": "अंदाज",
+        "alerts": "सूचना",
+        "settings": "सेटिंग्ज"
+    },
+    "dashboard": {
+        "welcome": "स्वागत! पीक उत्पादन, हवामान किंवा शेती सल्ल्याबद्दल विचारा.",
+        "quickStats": "जलद आकडेवारी",
+        "yieldPrediction": "उत्पादन अंदाज",
+        "confidence": "विश्वास",
+        "temperature": "तापमान",
+        "soilMoisture": "माती आर्द्रता",
+        "selectState": "राज्य निवडा",
+        "selectCrop": "पीक निवडा"
+    },
+    "weather": {
+        "title": "हवामान",
+        "temperature": "तापमान",
+        "humidity": "आर्द्रता",
+        "wind": "वारा",
+        "rainfall": "पाऊस (24 तास)",
+        "forecast": "अंदाज",
+        "rainChance": "पावसाची शक्यता"
+    },
+    "soil": {
+        "title": "माती स्थिती",
+        "moisture": "आर्द्रता",
+        "ph": "पीएच पातळी",
+        "nitrogen": "नायट्रोजन",
+        "phosphorus": "फॉस्फरस",
+        "potassium": "पोटॅशियम",
+        "healthScore": "आरोग्य स्कोअर"
+    },
+    "crop": {
+        "title": "पीक आरोग्य",
+        "ndvi": "एनडीव्हीआय",
+        "healthScore": "आरोग्य स्कोअर",
+        "growthStage": "वाढीची अवस्था",
+        "stressDetected": "ताण आढळला"
+    },
+    "irrigation": {
+        "title": "स्मार्ट सिंचन सल्लागार",
+        "soilMoisture": "माती आर्द्रता",
+        "action": "शिफारस केलेली कृती",
+        "timing": "सर्वोत्तम वेळ",
+        "amount": "पाण्याचे प्रमाण",
+        "irrigate": "आता सिंचन करा",
+        "skip": "सिंचन वगळा",
+        "wait": "प्रतीक्षा करा",
+        "monitor": "निरीक्षण करा"
+    },
+    "risk": {
+        "title": "जोखीम मूल्यांकन",
+        "overall": "एकूण जोखीम",
+        "low": "कमी",
+        "moderate": "मध्यम",
+        "elevated": "वाढलेली",
+        "high": "उच्च",
+        "critical": "गंभीर",
+        "factors": "जोखीम घटक"
+    },
+    "alerts": {
+        "title": "सूचना",
+        "noAlerts": "सक्रिय सूचना नाहीत",
+        "drought": "दुष्काळाचा धोका",
+        "flood": "पुराचा धोका",
+        "disease": "रोगाचा धोका",
+        "pest": "कीटकांचा धोका"
+    },
+    "chat": {
+        "placeholder": "तुमच्या पिकांबद्दल प्रश्न विचारा...",
+        "send": "पाठवा",
+        "thinking": "विचार करत आहे..."
+    },
+    "predictions": {
+        "yield": "अंदाजित उत्पादन",
+        "unit": "टन/हेक्टर",
+        "vsAverage": "सरासरीच्या तुलनेत",
+        "production": "उत्पादन अंदाज",
+        "area": "पिकाखालील क्षेत्र"
+    },
+    "recommendations": {
+        "title": "शिफारसी",
+        "high": "उच्च प्राधान्य",
+        "medium": "मध्यम प्राधान्य",
+        "low": "कमी प्राधान्य"
+    }
+}

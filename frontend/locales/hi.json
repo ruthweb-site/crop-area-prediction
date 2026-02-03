@@ -1,0 +1,95 @@
+{
+    "common": {
+        "appName": "क्रॉप एजेंट",
+        "tagline": "भारतीय किसानों के लिए AI-आधारित फसल भविष्यवाणी"
+    },
+    "navigation": {
+        "dashboard": "डैशबोर्ड",
+        "chat": "चैट",
+        "predictions": "भविष्यवाणी",
+        "alerts": "अलर्ट",
+        "settings": "सेटिंग्स"
+    },
+    "dashboard": {
+        "welcome": "स्वागत है! फसल उपज, मौसम की स्थिति या खेती की सलाह के बारे में पूछें।",
+        "quickStats": "त्वरित आंकड़े",
+        "yieldPrediction": "उपज भविष्यवाणी",
+        "confidence": "विश्वास",
+        "temperature": "तापमान",
+        "soilMoisture": "मिट्टी की नमी",
+        "selectState": "राज्य चुनें",
+        "selectCrop": "फसल चुनें"
+    },
+    "weather": {
+        "title": "मौसम",
+        "temperature": "तापमान",
+        "humidity": "आर्द्रता",
+        "wind": "हवा",
+        "rainfall": "वर्षा (24 घंटे)",
+        "forecast": "पूर्वानुमान",
+        "rainChance": "बारिश की संभावना"
+    },
+    "soil": {
+        "title": "मिट्टी की स्थिति",
+        "moisture": "नमी",
+        "ph": "पीएच स्तर",
+        "nitrogen": "नाइट्रोजन",
+        "phosphorus": "फॉस्फोरस",
+        "potassium": "पोटेशियम",
+        "healthScore": "स्वास्थ्य स्कोर"
+    },
+    "crop": {
+        "title": "फसल स्वास्थ्य",
+        "ndvi": "एनडीवीआई",
+        "healthScore": "स्वास्थ्य स्कोर",
+        "growthStage": "विकास चरण",
+        "stressDetected": "तनाव पाया गया"
+    },
+    "irrigation": {
+        "title": "स्मार्ट सिंचाई सलाहकार",
+        "soilMoisture": "मिट्टी की नमी",
+        "action": "अनुशंसित कार्रवाई",
+        "timing": "सर्वोत्तम समय",
+        "amount": "पानी की मात्रा",
+        "irrigate": "अभी सिंचाई करें",
+        "skip": "सिंचाई छोड़ें",
+        "wait": "प्रतीक्षा करें",
+        "monitor": "निगरानी करें"
+    },
+    "risk": {
+        "title": "जोखिम आकलन",
+        "overall": "समग्र जोखिम",
+        "low": "कम",
+        "moderate": "मध्यम",
+        "elevated": "बढ़ा हुआ",
+        "high": "उच्च",
+        "critical": "गंभीर",
+        "factors": "जोखिम कारक"
+    },
+    "alerts": {
+        "title": "अलर्ट",
+        "noAlerts": "कोई सक्रिय अलर्ट नहीं",
+        "drought": "सूखे का खतरा",
+        "flood": "बाढ़ का खतरा",
+        "disease": "रोग का खतरा",
+        "pest": "कीट का खतरा"
+    },
+    "chat": {
+        "placeholder": "अपनी फसलों के बारे में प्रश्न पूछें...",
+        "send": "भेजें",
+        "thinking": "सोच रहा हूं..."
+    },
+    "predictions": {
+        "yield": "अनुमानित उपज",
+        "unit": "टन/हेक्टेयर",
+        "vsAverage": "औसत की तुलना में",
+        "production": "उत्पादन पूर्वानुमान",
+        "area": "फसल क्षेत्र"
+    },
+    "recommendations": {
+        "title": "सिफारिशें",
+        "high": "उच्च प्राथमिकता",
+        "medium": "मध्यम प्राथमिकता",
+        "low": "कम प्राथमिकता"
+    }
+}
